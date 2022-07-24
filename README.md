@@ -32,3 +32,7 @@ Sou iniciante no universo da programação. Nunca paro de estudar, aprender e pr
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=GuiAgost&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiAgost&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+##
+
+![Snake animation](https://github.com/GuiAgost/Guiagost/blob/output/github-contribution-grid-snake.svg)
