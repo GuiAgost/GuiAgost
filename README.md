@@ -1,16 +1,34 @@
-### Hi there 👋
+# Guilherme Agostini  <p align="right"><img src="https://user-images.githubusercontent.com/76624588/180626814-f2152939-775e-4585-87e9-5b65cc051ca2.png" width="200" hedight="600"></p>
 
-<!--
-**GuiAgost/GuiAgost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bem vindo ao meu perfil GitHub 👋
 
-Here are some ideas to get you started:
+Tenho  34 anos,  moro em Nova Prata - RS e  gosto muito de fazer programação. Sou iniciante no universo da programação. Nunca paro de estudar, aprender e praticar!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img src="https://user-images.githubusercontent.com/76624588/180625640-e1af5cbb-464f-4e88-85c4-e748edd3ef32.gif" width="300" hedight="600"></p>
+
+🔭 Atualmente estou trabalhando em Suporte TI da empresa [Spark](https://www.sparkag.com.br/).
+
+📚 Tenho estudado Java e pretendo estudar mais, incluindo para desenvovimento web e apps para android.
+
+☕ Tomo café pra caramba!
+
+🖥️ Tecnologias e Ferramentas 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" hedight="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" hedight="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" hedight="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" hedight="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" hedight="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" hedight="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" hedight="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" hedight="50"/>
+
+##
+
+📫 Meus contatos
+<div>
+<a href="https://instagram.com/agostini_gui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitter.com/MeMeAgos" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/guilherme-agostini-685972122" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+##
+
+<div>
+<a href="https://github.com/GuiAgost">
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=GuiAgost&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiAgost&layout=compact&langs_count=7&theme=dracula"/>
+</div>
