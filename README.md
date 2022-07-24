@@ -1,8 +1,8 @@
-# Olá!! Sou Guilherme Agostini  <p align="right"><img src="https://user-images.githubusercontent.com/76624588/180626814-f2152939-775e-4585-87e9-5b65cc051ca2.png" width="200" hedight="600"></p>
+# Olá!! Sou Guilherme Agostini 😀  <p align="right"><img src="https://user-images.githubusercontent.com/76624588/180626814-f2152939-775e-4585-87e9-5b65cc051ca2.png" width="200" hedight="600"></p>
 
 ### Bem vindo ao meu perfil GitHub 👋
 
-Tenho  34 anos,  moro em Nova Prata - RS e  gosto muito de fazer programação. Sou iniciante no universo da programação. Nunca paro de estudar, aprender e praticar!
+Sou iniciante no universo da programação. Nunca paro de estudar, aprender e praticar!
 
 <p align="center"><img src="https://user-images.githubusercontent.com/76624588/180625640-e1af5cbb-464f-4e88-85c4-e748edd3ef32.gif" width="300" hedight="600"></p>
 
