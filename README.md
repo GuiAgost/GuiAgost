@@ -6,7 +6,7 @@ Sou iniciante no universo da programação. Nunca paro de estudar, aprender e pr
 
 <p align="center"><img src="https://user-images.githubusercontent.com/76624588/180625640-e1af5cbb-464f-4e88-85c4-e748edd3ef32.gif" width="300" hedight="600"></p>
 
-🔭 Atualmente estou trabalhando em Suporte TI da empresa [Spark](https://www.sparkag.com.br/).
+🔭 Trabalhei em Suporte TI da empresa [Spark](https://www.sparkag.com.br/).
 
 📚 Tenho estudado Java e pretendo estudar mais, incluindo para desenvovimento web e apps para android.
 
