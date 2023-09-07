@@ -37,19 +37,4 @@ src="https://user-images.githubusercontent.com/76624588/205316595-f9a56dec-1e86-
 
 ##
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
 ![Snake animation](https://github.com/GuiAgost/Guiagost/blob/output/github-contribution-grid-snake.svg)
