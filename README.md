@@ -10,7 +10,7 @@ Sou iniciante no universo da programação. Nunca paro de estudar, aprender e pr
 
 🔭 Trabalhei em Suporte TI da empresa [Spark](https://www.sparkag.com.br/).
 
-📚 Tenho estudado Java e pretendo estudar mais, incluindo para desenvolvimento web e apps para android.
+📚 Tenho estudado Java e pretendo estudar mais, incluindo para desenvolvimento web e sistema.
 
 ☕ Tomo café pra caramba!
 
