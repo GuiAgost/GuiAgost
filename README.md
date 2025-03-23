@@ -64,4 +64,4 @@ src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-pos
 
 ##
 
-![Snake animation](https://github.com/GuiAgost/Guiagost/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GuiAgost/Guiagost/blob/main/github-contribution-grid-snake.svg)
