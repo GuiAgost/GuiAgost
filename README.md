@@ -55,12 +55,23 @@ src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-pos
 
 ##
 
-<div align="center">
+ 🚀 Projetos em destaque
+
+🔹 **MusicHarmony**
+> Sistema web para ensino de teoria musical básica, desenvolvido como TCC II,
+> aplicando arquitetura em camadas, persistência com JPA/Hibernate
+> e testes unitários.
+- 🔧 Java, Spring Boot, JPA/Hibernate, PostgreSQL
+- 📌 [Repositório](https://github.com/GuiAgost/musicHarmony)
+
+##
+
+<!-- <div align="center">
   <a href="https://github.com/GuiAgost">
     <img height="180em" style="border: 1px solid #ccc;" src="https://github-readme-stats.vercel.app/api?username=GuiAgost&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" style="border: 1px solid #ccc;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiAgost&&layout=donut&langs_count=7&theme=radical"/>
   </a>
-</div>
+</div> -->
 
 <!-- ## -->
 
